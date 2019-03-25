@@ -1,6 +1,6 @@
 ## This content is featured in a monthly theme!
 
-In 2019, we want to challenge Canadians to pause and think, learn about, share, and work towards solving issues that affect us all on a global scale – while leveraging the power of technology!  More information on monthly themes [here](https://www.canadalearningcode.ca/monthly-themes/)
+In 2019, we want to challenge Canadians to pause and think, learn about, share, and work towards solving issues that affect us all on a global scale – while leveraging the power of technology!  More information on monthly themes [here](https://www.canadalearningcode.ca/code-can-change-the-world/)
 
 *March's theme is WATER.*
 
@@ -17,7 +17,7 @@ This workshop covers HTML and CSS basics and is intended for complete beginners.
 
 ### Quick Links
 
-Preview Slides: http://ladieslearningcode.github.io/llc-html-css-multi-page-site/slides.html#slide1
+Preview Slides for Calgary Learners: https://5hel2l2y.github.io/llc-html-css-multi-page-site/slides.html
 
 ### Attributions
 
@@ -30,7 +30,7 @@ We're really happy to see others leverage our content in their community - we’
 
 Here's an easy way to attribute content back to us - please include it wherever you use or make reference to our content.
 
-"Please note that this is not a [Canada Learning Code](https://www.canadalearningcode.ca/) affiliated event, but we want to acknowledge the organization for the creation of [the content](https://github.com/ladieslearningcode/llc-intro-to-javascript) being delivered under Creative Commons license"
+"Please note that this is not a [Canada Learning Code](https://www.canadalearningcode.ca/) affiliated event, but we want to acknowledge the organization for the creation of [the content](https://github.com/ladieslearningcode/llc-html-css-multi-page-site) being delivered under Creative Commons license"
 
 
 ### Contributing
