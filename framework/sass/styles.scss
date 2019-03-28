@@ -1,6 +1,8 @@
 @import "base",
         "theme",
-        "workshop"; 
+        "workshop",
+        "fontawesome/fontawesome.scss",
+        "fontawesome/brands.scss";
 
 // Make sure to run Autoprefixer to automatically add vendor prefixes 
 // to the compiled CSS file using the compiler of your choice.
